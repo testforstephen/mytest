@@ -1,1 +1,3 @@
 open "x-apple.systempreferences:com.apple.ExtensionsPreferences?extensionPointIdentifier=com.apple.dt.Xcode.extension.source-editor"
+
+pluginkit -m -p com.apple.dt.Xcode.extension.source-editor
