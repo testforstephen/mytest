@@ -3,3 +3,5 @@ open "x-apple.systempreferences:com.apple.ExtensionsPreferences?extensionPointId
 pluginkit -m -p com.apple.dt.Xcode.extension.source-editor
 
 open -b com.apple.systempreferences /System/Library/PreferencePanes/Extensions.prefPane
+
+https://github.com/bvanpeski/SystemPreferences/blob/main/macos_preferencepanes-Ventura.md
